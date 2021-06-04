@@ -1,3 +1,15 @@
+CNA421
+Final project
+Saeid Nahali, Mohammad Pakizeh jam
+
+1. Create an EC2 instance and install a web server
+2. Setup RDS instance and Connect it from EC2 Instance
+3. Get lambda instance talking to web server and RDS
+
+**********************************************************
+
+
+
 Create an EC2 instance and install a web server
 In this step, you create a web server to connect to the Amazon RDS DB instance that you created in Create a DB instance.
 
