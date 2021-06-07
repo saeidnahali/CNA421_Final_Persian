@@ -2,8 +2,8 @@ CNA421
 Final project
 Saeid Nahali, Mohammad Pakizeh jam
 
-1. Create an EC2 instance and install a web server
-2. Setup RDS instance and Connect it from EC2 Instance
+1. Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
+2. Create RDS instance and Connect from EC2
 3. Get lambda instance talking to web server and RDS
 
 **********************************************************
